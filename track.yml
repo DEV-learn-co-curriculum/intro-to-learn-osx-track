@@ -1,0 +1,71 @@
+---
+track:
+    title: Intro to Learn (OSX)
+    uuid: 772ad155-4c5b-464c-bafc-7079daede0f0
+    topics:
+    -   title: Intro to Learn for OS X
+        uuid: e2c0dd97-284b-4f86-806f-6464a7ae93b3
+        units:
+        -   title: About Curriculum on Learn
+            uuid: 8b0c4f0f-f668-491e-8974-e2a595bf8f81
+            lessons:
+            -   title: How to Learn on Learn
+                uuid: 4f58465a-85ba-431a-84de-a0453606c455
+                contents:
+                -   title: Learning On Learn
+                    source: https://github.com/learn-co-curriculum/learning-on-learn
+                    uuid: 6e96b0fb-cb96-476e-8f81-964d3bfcc7ef
+        -   title: Using a Terminal
+            uuid: 2bb89a55-4fef-4d98-bc4d-0834ce963727
+            lessons:
+            -   title: What is a Terminal?
+                uuid: 0c4a3a08-3e24-4b1c-ac7a-98d0b51ce8e6
+                contents:
+                -   title: Intro To The Shell
+                    source: https://github.com/learn-co-curriculum/intro-to-the-shell
+                    uuid: a5e2f091-2278-4b62-bda1-ed1e859d608a
+            -   title: Opening a Terminal
+                uuid: 3889c8a3-808d-463c-a7cf-a07e9e712079
+                contents:
+                -   title: First Terminal
+                    source: https://github.com/learn-co-curriculum/first-terminal
+                    uuid: d183226c-18ab-416e-ac75-b734f3a04597
+            -   title: Navigating with Terminal
+                uuid: 52cd5813-faec-4c90-b8dd-f44ef1729350
+                contents:
+                -   title: Bash Navigation Osx
+                    source: https://github.com/learn-co-curriculum/bash-navigation-osx
+                    uuid: c922c044-f39e-48cb-9fd8-259857429dbf
+        -   title: Solving Labs on Learn
+            uuid: 568edf91-00cb-4367-86e4-acc5d5ec22a9
+            lessons:
+            -   title: Git + GitHub + Learn
+                uuid: 704593f5-4704-40d6-a785-ca2e5ae4562d
+                contents:
+                -   title: Git Github And Learn
+                    source: https://github.com/learn-co-curriculum/git-github-and-learn
+                    uuid: 2a714d82-6c64-4ff9-a364-6d9e1ea2e75f
+            -   title: Opening a Lab
+                uuid: 09bccb6a-d6a4-440a-b9ab-e26f4f17dd66
+                contents:
+                -   title: Opening A Lab Osx
+                    source: https://github.com/learn-co-curriculum/opening-a-lab-osx
+                    uuid: 73b91347-242c-438e-9f70-b44deddb9559
+            -   title: Solving a Lab
+                uuid: a540e183-2864-4056-825e-068745bceb5e
+                contents:
+                -   title: Solving A Lab Osx
+                    source: https://github.com/learn-co-curriculum/solving-a-lab-osx
+                    uuid: 81642728-64fb-42ca-8ce1-887725e2ba08
+            -   title: First Lab - learn CLI
+                uuid: be5abb5a-9b17-48b9-8cd2-cf374136d961
+                contents:
+                -   title: First Lab Ruby Learn Cli Osx
+                    source: https://github.com/learn-co-curriculum/first-lab-ruby-learn-cli-osx
+                    uuid: 3e7d90b0-a966-46b9-a2ef-4e7c13a597c1
+            -   title: Submitting a Lab
+                uuid: 39287885-decf-490d-a0ba-9b7595116dbc
+                contents:
+                -   title: Submitting A Lab Osx
+                    source: https://github.com/learn-co-curriculum/submitting-a-lab-osx
+                    uuid: 15563062-c465-49a8-944b-60dc6fda9633
